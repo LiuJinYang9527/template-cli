@@ -3,7 +3,7 @@
 
 ## 安装
 ```shell
-npm install melon-cli -g
+npm install ly-umi-cli -g
 ```
 ## 使用
 ```shell
